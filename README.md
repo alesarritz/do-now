@@ -1,5 +1,5 @@
 <h1>
-<img src="logo.png" alt="appIcon" width=50 align="center"/>
+<img src="https://github.com/alesarritz/do-now/blob/9468bbdf7029c2557bba0379d27e2fd82d085285/logo.png" alt="appIcon" width=50 align="center"/>
 &ensp;Do Now</h1>
 
 </br>
@@ -17,8 +17,8 @@ For this project I modified the design from the beginning, creating the design m
 
 <table width="500px">
   <tr>
-  <td width="250px" padding="10px"><img src="1.png" alt="First_Screen"/> </td>
-  <td width="250px" padding="10px"><img src="2.png" alt="Second_Screem"/></td>
+  <td width="250px" padding="10px"><img src="https://github.com/alesarritz/do-now/blob/9468bbdf7029c2557bba0379d27e2fd82d085285/1.png" alt="First_Screen"/> </td>
+  <td width="250px" padding="10px"><img src="https://github.com/alesarritz/do-now/blob/9468bbdf7029c2557bba0379d27e2fd82d085285/2.png" alt="Second_Screem"/></td>
   </tr>
 </table>
 
@@ -26,7 +26,7 @@ For this project I modified the design from the beginning, creating the design m
 
 <table width="500px">
   <tr>
-  <td width="250px" padding="10px"><img src="do_now.gif" alt="MyResult"/> </td>
+  <td width="250px" padding="10px"><img src="https://github.com/alesarritz/do-now/blob/9468bbdf7029c2557bba0379d27e2fd82d085285/do_now.gif" alt="MyResult"/> </td>
   </tr>
 </table>
 
@@ -37,7 +37,7 @@ For this project I modified the design from the beginning, creating the design m
 The goal was to build a to-do list app to keep track of all your tasks.<br>
 Tasks can be easily added, marked as done and deleted.
 
-###Main features implemented developing the Do Now project:
+### Main features implemented developing the Do Now project:
 - Provider package incorporation (*State management*)
 - List Builder
 - BottomSheet Widget
