@@ -22,7 +22,7 @@ For this project I modified the design from the beginning, creating the design m
   </tr>
 </table>
 
-##Final result
+## Final result
 
 <table width="500px">
   <tr>
